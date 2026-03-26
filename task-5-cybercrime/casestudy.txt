@@ -1,0 +1,13 @@
+CASE STUDY: UPI / Online Payment Fraud
+
+UPI fraud is very common in India today because many people use online payment apps for daily transactions. In this type of fraud, scammers try to cheat people and take money from their bank accounts.
+
+One common method used by fraudsters is sending a payment request. They tell the person that they are sending money, but in reality, it is a request to pay money. When the person enters their UPI PIN, money gets deducted from their account instead of being received. Many people do not understand this and become victims.
+
+Sometimes, scammers also send fake links through SMS or social media. These links may look real, but they are used to steal personal information like bank details or OTP.
+
+Students and new users are easy targets because they may not know how these scams work. This can cause financial loss and stress.
+
+This case shows that we should always be careful and check everything before making any online payment.
+CASE STUDY: UPI / Online Payment Fraud
+
